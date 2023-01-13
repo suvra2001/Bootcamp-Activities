@@ -28,6 +28,35 @@
    border-bottom-left-radius: 7px;
    border-bottom-right-radius: 7px;
 }
+
+.darkBlue {
+   background-color: #333366;
+}
+.darkGrey {
+   background-color: #545454;
+}
+.lightGrey {
+   background-color: #E3E3E3;
+}
+.white {
+   background-color: white;
+}
+.lightBlue {
+   background-color: #12A0F6;
+}
+.red {
+   background-color: #F84848;
+}
+.orange {
+   background-color: #fc7705;
+}
+.lightBlue {
+   background-color: #13a0f6;
+}
+.lightGreen {
+   background-color: #8abe48;
+}
+
 /* Typography CSS */
 .type_container {
    display: inline-block;
@@ -42,5 +71,39 @@
    width: 150px;
    text-align: center;
    color: white;
-   outline: 1px solid red;
+}
+
+.primary {
+   background-color: #2b459a;
+}
+.success {
+   background-color: #8abe48;   
+}
+.danger {
+   background-color: #F84848;
+}
+.warning {
+   background-color: #fc7705;
+}
+.info {
+   background-color: #0099FA;
+}
+.primaryActive {
+   background-color: #3a66b7;
+}
+.successActive {
+   background-color: #668c35;
+}
+.dangerActive {
+   background-color: #ad4848;
+}
+.warningActive {
+   background-color: #ba7a43;
+}
+.infoActive {
+   background-color: #4386ba;
+}
+.sectionHead {
+   border-bottom: 8px solid #DDDDDD;
+   padding-bottom: 5px;
 }
